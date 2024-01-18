@@ -2,11 +2,17 @@ Reaction Time Test
 This is a simple Java Swing application for testing reaction time. The application presents a button to the user, and upon clicking, it measures the time it takes for the user to react to a visual cue.
 
 How to Use
+
   Run the ReactionTime class.
+  
   Click the "Click to Begin the Reaction Time Test" button.
+  
   Wait for the screen to turn green.
+  
   Click again when the screen turns green.
+  
   The application will display your reaction time in milliseconds.
+  
   Code Overview
 
 The code uses Java Swing for the graphical user interface. Here's a brief overview:
